@@ -1,0 +1,44 @@
+/* .cards{
+    display: flex;
+    margin-top: 20px;
+    
+}
+
+.card{
+    margin-right: 20px;
+    background-color: green;
+}
+.btn btn-danger{
+    background-color: greenyellow;
+} */
+
+
+.container{
+    margin: 20px;
+}
+.jumbotron{
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.containerr{
+    margin: 50px;
+}
+
+.d-block{
+    height: 500px;
+    width: 1200px;
+    border-radius: 20px;
+    margin-left: 70px;
+    
+}
+.content{
+    margin-left: 25px;
+    
+}
+
+.content2{
+    margin: 40px 80px;
+    
+}
+
